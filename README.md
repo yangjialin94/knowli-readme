@@ -2,7 +2,9 @@
 
 Knowli is a **cross-platform mobile learning app** that delivers bite-sized, AI-generated stories and surprising facts in under **30 seconds**. Designed for all age groups, Knowli makes idle moments productive — whether on a coffee break or waiting in line.
 
-👉 This repository is **public for recruiters and collaborators to review the project’s scope and technology choices**. The source code remains private.
+👉 Download on the App Store: [Knowli](https://apps.apple.com/ca/app/knowli/id6749599315)  
+👉 This repository is **public for recruiters and collaborators to review the project’s scope and technology choices**.  
+The source code remains private.
 
 ---
 
