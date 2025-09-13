@@ -53,23 +53,18 @@ Knowli is a **cross-platform mobile learning app** that delivers bite-sized, AI-
 
 ## 📸 Screenshots
 
-### Sign In
-![Sign In](/screenshots/1.%20Sign%20In.png)
-
-### Learn – Free
-![Learn Free](/screenshots/2.%20Learn%20-%20Free.png)
-
-### Learn – Purchased
-![Learn Purchased](/screenshots/3.%20Learn%20-%20Purchased.png)
-
-### Story
-![Story](/screenshots/4.Story.png)
-
-### History
-![History](/screenshots/5.History.png)
-
-### Profile
-![Profile](/screenshots/6.%20Profile.png)
+<table>
+  <tr>
+    <td><img src="/screenshots/1.%20Sign%20In.png" width="220"/></td>
+    <td><img src="/screenshots/2.%20Learn%20-%20Free.png" width="220"/></td>
+    <td><img src="/screenshots/3.%20Learn%20-%20Purchased.png" width="220"/></td>
+  </tr>
+  <tr>
+    <td><img src="/screenshots/4.Story.png" width="220"/></td>
+    <td><img src="/screenshots/5.History.png" width="220"/></td>
+    <td><img src="/screenshots/6.%20Profile.png" width="220"/></td>
+  </tr>
+</table>
 
 ---
 
